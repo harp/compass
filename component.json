@@ -70,7 +70,6 @@
     "scss/utilities/_sprites.scss",
     "scss/utilities/_tables.scss",
     "scss/utilities/_text.scss",
-    "scss/utilities/color/_brightness.scss",
     "scss/utilities/color/_contrast.scss",
     "scss/utilities/general/_clearfix.scss",
     "scss/utilities/general/_float.scss",
