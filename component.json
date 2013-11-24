@@ -26,7 +26,6 @@
     "scss/css3/_box-sizing.scss",
     "scss/css3/_box.scss",
     "scss/css3/_columns.scss",
-    "scss/css3/_deprecated-support.scss",
     "scss/css3/_filter.scss",
     "scss/css3/_flexbox.scss",
     "scss/css3/_font-face.scss",
