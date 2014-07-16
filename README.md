@@ -15,21 +15,22 @@
 
 ## Install
 
-To install Compass Core, run the following command from the root of your harp project:
+To install Compass Core, you can [download this repository](https://github.com/harp/compass/archive/master.zip) or use the  [Component](http://component.io) package manager.
 
 ```bash
-harp install compass
+npm install -g component
+component install harp/compass
 ```
 
 Your project will look something like this…
 
 ```
-myproject/                  <-- your project root (or public dir if in framework-mode)
-  |- components/            <-- harp puts components here
-  |   +- harp-compass/         <-- where this lib is installed
+myproject/                 <-- your project root (or public dir if in framework-mode)
+  |- component/            <-- harp puts components here
+  |   +- harp/             <-- where this lib is installed
   |       …
-  |- main.scss              <-- where you reference Compass Core 
-  +- index.jade             <-- where you reference main.css
+  |- main.scss             <-- where you reference Compass Core
+  +- index.jade            <-- where you reference main.css
 ```
 
 ## Link
