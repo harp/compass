@@ -15,7 +15,7 @@
 
 ## Install
 
-To install Compass Core, you can [download this repository](https://github.com/harp/compass/archive/master.zip) or use the  [Component](http://component.io) package manager.
+To install Compass Core, you can [download this repository](https://github.com/harp/compass/archive/master.zip) or use the [Component](http://component.io) package manager.
 
 ```bash
 npm install -g component
